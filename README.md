@@ -31,18 +31,7 @@ For Example
 ![image](https://raw.githubusercontent.com/guotuantuan/Code-Convert/main/img/imgrp.png)
 <br/>
 <br/>
-<br/>
-Usage Instructions(Version 1.0.0)
-<br/><br/>
-Select the html code, then right click and choose convert, The processing results will be displayed in the bottom toowindow.
-<br/><br/>
-For Example
-<br/><br/>
-![image](https://raw.githubusercontent.com/guotuantuan/Code-Convert/main/img/Usage.png)
-<br/>
-![image](https://raw.githubusercontent.com/guotuantuan/Code-Convert/main/img/img.png)
-<br/>
-<br/>
+
 
 
 
